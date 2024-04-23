@@ -1,0 +1,16 @@
+.card {
+  background-color: darkgray;
+  border-radius: 10px;
+}
+
+.card:hover {
+  cursor: pointer;
+  box-shadow: 0px 0px 10px 10px rgba(155, 155, 155, 0.3);
+}
+
+.sprite {
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 200px;
+}
